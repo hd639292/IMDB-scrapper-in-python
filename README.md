@@ -1,5 +1,9 @@
 # IMDB-scrapper-in-python
 
-practice of beautiful soup
+Can scrape top 100 movies on IMDB
 
-dont use it.
+Search Movies by name that get the url
+
+Can compare and sort the movies by their rating
+
+Can compare movies using multithreading 
