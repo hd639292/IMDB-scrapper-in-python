@@ -1,4 +1,5 @@
 # IMDB-scrapper-in-python
 
+practice of beautiful soup
 
-just for testing purpose :)
+dont use it.
